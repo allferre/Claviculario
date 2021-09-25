@@ -41,6 +41,9 @@ public class ExibeVeiculo extends JFrame {
         System.out.println("teste");
         System.out.println("teste");
 
+        System.out.println("teste");
+        System.out.println("teste");
+
         
         /*Container container = getContentPane();
         container.setLayout(new GridBagLayout());
